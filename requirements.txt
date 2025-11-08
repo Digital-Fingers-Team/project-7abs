@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+Werkzeug==2.0.1
+WeasyPrint==52.5
+python-dateutil==2.8.2
+pillow==9.1.0
